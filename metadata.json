@@ -1,0 +1,6 @@
+{
+  "name": "ShadowNet: Rise of a Digital Empire",
+  "description": "Low-Poly Cyberpunk Tech-Tycoon & Strategiespiel: Baue dein digitales Technologieunternehmen von der Garage bis zum globalen KI-Konzern auf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
